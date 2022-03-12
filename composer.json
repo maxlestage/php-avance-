@@ -11,5 +11,8 @@
             "email": "maxlestage@icloud.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/mailer": "^6.0",
+        "gipetto/cowsay": "^1.1"
+    }
 }
