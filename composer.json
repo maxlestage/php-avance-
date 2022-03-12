@@ -1,0 +1,15 @@
+{
+    "name": "maxlestage/php-avancee",
+    "autoload": {
+        "psr-4": {
+            "Maxlestage\\PhpAvancee\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maxlestage",
+            "email": "maxlestage@icloud.com"
+        }
+    ],
+    "require": {}
+}
